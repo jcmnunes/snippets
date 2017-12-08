@@ -1,0 +1,27 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+
+class <clipboard> extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return <div>Hello world</div>;
+  }
+}
+
+<clipboard>.defaultProps = {
+  firstName: 'John',
+};
+
+<clipboard>.propTypes = {
+  firstName: PropTypes.string.isRequired,
+};
+
+export const mapStateToProps = state => ({
+  state: state.state,
+});
+
+export default connect(mapStateToProps)(<clipboard>);

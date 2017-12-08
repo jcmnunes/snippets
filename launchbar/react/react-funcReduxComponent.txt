@@ -1,0 +1,25 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+
+/**
+ * ESDoc comment.
+ */
+const <clipboard> = () => {};
+
+<clipboard>.defaultProps = {
+  firstName: 'John',
+};
+
+<clipboard>.propTypes = {
+  firstName: PropTypes.string.isRequired,
+};
+
+/**
+ * Maps the store into component's props
+ */
+export const mapStateToProps = state => ({
+  state: state.state,
+});
+
+export default connect(mapStateToProps)(<clipboard>);

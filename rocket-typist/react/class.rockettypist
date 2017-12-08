@@ -1,0 +1,13 @@
+import React from 'react';
+
+class %textfield:name=Component name:default=textfield% extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return <div>Hello world</div>;
+  }
+}
+
+export default %textfield:name=Component name:default=textfield%;

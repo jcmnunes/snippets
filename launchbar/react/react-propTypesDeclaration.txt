@@ -1,0 +1,3 @@
+<clipboard>.propTypes = {
+  lorem: PropTypes.func.isRequired,
+};

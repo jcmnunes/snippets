@@ -1,0 +1,17 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
+/**
+ * ESDoc comment.
+ */
+const <clipboard> = () => {};
+
+Comp.defaultProps = {
+  prop: 'prop',
+};
+
+Comp.propTypes = {
+  prop: PropTypes.string.isRequired,
+};
+
+export default <clipboard>;
