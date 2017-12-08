@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abbreviation</key>
+	<string>func§</string>
+	<key>formatted</key>
+	<integer>0</integer>
+	<key>text</key>
+	<data>
+	cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5cAwAAKwAAAAEAAABUAwAAe1xy
+	dGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTYxXGNvY29hc3VicnRmMTAwCntc
+	Zm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIZWx2ZXRpY2FOZXVlO1xmMVxmc3dpc3Nc
+	ZmNoYXJzZXQwIEhlbHZldGljYTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+	bHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIw
+	XHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+	eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
+	CgpcZjBcZnMyNiBcY2YwIGltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XAppbXBvcnQg
+	UHJvcFR5cGVzIGZyb20gJ3Byb3AtdHlwZXMnO1wKXAovKipcCiAqIEVTRG9jIGNvbW1l
+	bnQuXAogKi9cCmNvbnN0ICUKXGYxXGZzMjQgdGV4dGZpZWxkOm5hbWU9Q29tcG9uZW50
+	IG5hbWU6ZGVmYXVsdD06dGV4dGZpZWxkJQpcZjBcZnMyNiAgPSAoKSA9PiBce1x9O1wK
+	XAolClxmMVxmczI0IHRleHRmaWVsZDpuYW1lPUNvbXBvbmVudCBuYW1lOmRlZmF1bHQ9
+	OnRleHRmaWVsZCUKXGYwXGZzMjYgLmRlZmF1bHRQcm9wcyA9IFx7XAogIHByb3A6ICdw
+	cm9wJyxcClx9O1wKXAolClxmMVxmczI0IHRleHRmaWVsZDpuYW1lPUNvbXBvbmVudCBu
+	YW1lOmRlZmF1bHQ9OnRleHRmaWVsZCUKXGYwXGZzMjYgLnByb3BUeXBlcyA9IFx7XAog
+	IHByb3A6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCxcClx9O1wKXApleHBvcnQg
+	ZGVmYXVsdCAlClxmMVxmczI0IHRleHRmaWVsZDpuYW1lPUNvbXBvbmVudCBuYW1lOmRl
+	ZmF1bHQ9OnRleHRmaWVsZCUKXGYwXGZzMjYgO1wKXAp9AQAAACMAAAABAAAABwAAAFRY
+	VC5ydGYQAAAAuIsqWrYBAAAAAAAAAAAAAA==
+	</data>
+	<key>title</key>
+	<string>React functional component</string>
+	<key>uuid</key>
+	<string>5BA75742-6DA2-4995-ADB9-18FA343CC619</string>
+</dict>
+</plist>

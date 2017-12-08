@@ -6,11 +6,11 @@ import PropTypes from 'prop-types';
  */
 const <clipboard> = () => {};
 
-Comp.defaultProps = {
+<clipboard>.defaultProps = {
   prop: 'prop',
 };
 
-Comp.propTypes = {
+<clipboard>.propTypes = {
   prop: PropTypes.string.isRequired,
 };
 

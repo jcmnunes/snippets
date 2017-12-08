@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abbreviation</key>
+	<string>impr§</string>
+	<key>formatted</key>
+	<integer>0</integer>
+	<key>text</key>
+	<data>
+	cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5JAQAAKwAAAAEAAABBAQAAe1xy
+	dGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntc
+	Zm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIZWx2ZXRpY2FOZXVlO30Ke1xjb2xvcnRi
+	bDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7
+	fQpccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+	MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHBhcmRpcm5hdHVy
+	YWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjAgaW1wb3J0IFJlYWN0IGZy
+	b20gJ3JlYWN0Jzt9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAWZf/WbYBAAAAAAAA
+	AAAAAA==
+	</data>
+	<key>title</key>
+	<string>Import react</string>
+	<key>uuid</key>
+	<string>F633325B-2066-4207-9D31-1926815BE28B</string>
+</dict>
+</plist>

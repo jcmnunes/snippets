@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abbreviation</key>
+	<string>bind§</string>
+	<key>formatted</key>
+	<integer>0</integer>
+	<key>text</key>
+	<data>
+	cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7tAQAAKwAAAAEAAADlAQAAe1xy
+	dGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTYxXGNvY29hc3VicnRmMTAwCntc
+	Zm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIZWx2ZXRpY2FOZXVlO1xmMVxmc3dpc3Nc
+	ZmNoYXJzZXQwIEhlbHZldGljYTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+	bHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIw
+	XHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+	eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
+	CgpcZjBcZnMyNiBcY2YwIHRoaXMuJQpcZjFcZnMyNCB0ZXh0ZmllbGQ6bmFtZT1NZXRo
+	b2QgbmFtZTpkZWZhdWx0PTp0ZXh0ZmllbGQlClxmMFxmczI2ICA9IHRoaXMuJQpcZjFc
+	ZnMyNCB0ZXh0ZmllbGQ6bmFtZT1NZXRob2QgbmFtZTpkZWZhdWx0PTp0ZXh0ZmllbGQl
+	ClxmMFxmczI2IC5iaW5kKHRoaXMpO30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABq
+	iCpatgEAAAAAAAAAAAAA
+	</data>
+	<key>title</key>
+	<string>Binds this to a method</string>
+	<key>uuid</key>
+	<string>23AAEE46-4E9E-4CE5-82A9-532F9588EF01</string>
+</dict>
+</plist>
